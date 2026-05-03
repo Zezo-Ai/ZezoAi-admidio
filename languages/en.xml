@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Phrases only in installation-->
   <string name="INS_ADDIDIONAL_DATA">Additional information</string>
@@ -1181,8 +1181,7 @@
   <string name="SYS_OVERVIEW_EXTENSIONS_SEQUENCE_DESC">The appearance of the overview extensions on the overview page can be changed here. The sequence of the extensions can be changed by drag &amp; drop (big screens) or by clicking the move buttons (small screens).\n\n The new sequence only takes effect after saving the settings!</string>
   <string name="SYS_PAGE_NEXT">Next</string>
   <string name="SYS_PAGE_PREVIOUS">Previous</string>
-  <string name="SYS_PARAMETER1_AND_PARAMETER2"
-    description="Two parameters are connected with an and">#VAR1# and #VAR2#</string>
+  <string name="SYS_PARAMETER1_AND_PARAMETER2" description="Two parameters are connected with an and">#VAR1# and #VAR2#</string>
   <string name="SYS_PARENT_ALBUM">Parent album</string>
   <string name="SYS_PARENT_ALBUM_DESC">One album can be part of another album. Please select a parent album from the selection list. If you want to display the album on the highest level then select #VAR1_BOLD#.</string>
   <string name="SYS_PARENT_ORGANIZATION">Parent organization</string>
