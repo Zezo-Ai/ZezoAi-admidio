@@ -29,7 +29,7 @@ Here you find a short overview about our versions that we will support with secu
 | -------- | ------------------ |
 | >= 5.1.x | :white_check_mark: |
 | 5.0.x    | :white_check_mark: |
-| < 4.x    | :x:                |
+| <= 4.x   | :x:                |
 
 ## Comments on this Policy
 If you have suggestions on how this process could be improved please submit a
